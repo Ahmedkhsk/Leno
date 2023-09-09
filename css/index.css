@@ -145,7 +145,7 @@ body {
 }
 
 .landing {
-    background-image: url(/img/im.jpg);
+    background-image: url(/img/m.jpg);
     background-size: cover;
     height: calc(96vh - 64px);
 }
